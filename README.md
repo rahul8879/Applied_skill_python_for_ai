@@ -1,0 +1,1 @@
+# Applied_skill_python_for_ai
